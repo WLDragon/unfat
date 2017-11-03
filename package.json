@@ -1,0 +1,26 @@
+{
+  "name": "unfat",
+  "version": "0.0.1",
+  "description": "compare files and extract the modified",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WLDragon/unfat.git"
+  },
+  "keywords": [
+    "compare",
+    "files"
+  ],
+  "author": "WLDragon",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/WLDragon/unfat/issues"
+  },
+  "homepage": "https://github.com/WLDragon/unfat#readme",
+  "dependencies": {
+    "crc-32": "^1.1.1"
+  }
+}
